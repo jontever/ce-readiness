@@ -200,7 +200,7 @@ export default function ResultsPage() {
               Cyber Essentials assessment and does not constitute or guarantee certification. Your
               actual certification status can only be determined by an{' '}
               <a
-                href="https://iasme.co.uk/cyber-essentials/certification-bodies/"
+                href="https://iasme.co.uk/cyber-essentials/find-a-certification-body/"
                 className="govuk-link"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -231,7 +231,7 @@ export default function ResultsPage() {
               an IASME-accredited Certification Body.
             </p>
             <a
-              href="https://iasme.co.uk/cyber-essentials/certification-bodies/"
+              href="https://iasme.co.uk/cyber-essentials/find-a-certification-body/"
               className="govuk-button govuk-button--secondary govuk-!-margin-bottom-2"
               target="_blank"
               rel="noopener noreferrer"

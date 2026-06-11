@@ -20,7 +20,7 @@ export default function HomePage() {
               <strong>Not an official assessment.</strong> This tool helps you prepare for Cyber
               Essentials certification. Official certification must be obtained through an{' '}
               <a
-                href="https://iasme.co.uk/cyber-essentials/certification-bodies/"
+                href="https://iasme.co.uk/cyber-essentials/find-a-certification-body/"
                 className="govuk-link"
                 target="_blank"
                 rel="noopener noreferrer"
