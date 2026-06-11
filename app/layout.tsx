@@ -30,6 +30,25 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <AssessmentProvider>
           <GovHeader />
           <div className="govuk-width-container">
+            <div className="govuk-phase-banner">
+              <p className="govuk-phase-banner__content">
+                <strong className="govuk-tag govuk-phase-banner__content__tag">Beta</strong>
+                <span className="govuk-phase-banner__text">
+                  This is a working tool to help organisations prepare for Cyber Essentials
+                  certification. Your responses are stored in this browser only — nothing is sent
+                  to a server.{' '}
+                  <a
+                    href="https://github.com/jontever/ce-readiness/issues"
+                    className="govuk-link"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Give feedback on GitHub
+                  </a>
+                  .
+                </span>
+              </p>
+            </div>
             <main className="govuk-main-wrapper" id="main-content">
               {children}
             </main>
