@@ -2,7 +2,7 @@
 
 A free, open-source tool to help UK organisations prepare for [Cyber Essentials](https://www.ncsc.gov.uk/cyberessentials/overview) certification.
 
-**Live at:** [ce.govassure.uk](https://ce.govassure.uk) *(update once deployed)*
+**Live at:** [ce.govassure.uk](https://ce.govassure.uk)
 
 ## What it does
 
